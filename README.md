@@ -1,0 +1,2 @@
+# milk2
+In general, the gross composition of cow's milk in the U.S. is 87.7% water, 4.9% lactose (carbohydrate), 3.4% fat, 3.3% protein, and 0.7% minerals (referred to as ash). Milk composition varies depending on the species (cow, goat, sheep), breed (Holstein, Jersey), the animal's feed, and the stage of lactation. Although there are minor variations in milk composition, the milk from different cows is stored together in bulk tanks and provides a relatively consistent composition of milk year round in the U.S.
